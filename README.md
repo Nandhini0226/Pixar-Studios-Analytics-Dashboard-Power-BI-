@@ -99,8 +99,7 @@ Strong storytelling strategy
 ![DAX](https://img.shields.io/badge/Language-DAX-blue)
 ![Power Query](https://img.shields.io/badge/ETL-Power%20Query-green)
 ![Data Modeling](https://img.shields.io/badge/Concept-Star%20Schema-orange)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Dataset](https://img.shields.io/badge/Data-Kaggle-blueviolet)
 ![Domain](https://img.shields.io/badge/Domain-Entertainment-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-Financial performance trends
+
