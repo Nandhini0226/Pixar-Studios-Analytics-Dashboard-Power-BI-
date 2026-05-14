@@ -64,6 +64,7 @@ The dataset for this project was sourced from **Kaggle**.
 ### **Relationships**
 - One-to-Many relationships using Film column  
 - Optimized for performance and scalability  
+<img width="508" height="327" alt="data modelling" src="https://github.com/user-attachments/assets/5d4d4fc1-0511-4b76-ad71-daca8b98a6d8" />
 
 ---
 
