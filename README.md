@@ -104,8 +104,8 @@ The dataset for this project was sourced from **Kaggle**.
 ---
 
 # **🖼️ Dashboard Preview**
+<img width="1194" height="679" alt="dashboard" src="https://github.com/user-attachments/assets/a3abf5b4-0000-4c39-a560-533045c0fdcd" />
 
-![Dashboard Preview](images/dashboard.png)
 
 ---
 
