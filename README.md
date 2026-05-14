@@ -91,13 +91,6 @@ The dataset for this project was sourced from **Kaggle**.
 
 ---
 
-# **🎛️ Interactivity**
-
-- **Movie Slicer** → Filter by film  
-- **People Slicer** → Filter by contributors  
-- **Dynamic Role Card** → Displays selected person’s role  
-
----
 
 # **📌 Key Insights**
 
