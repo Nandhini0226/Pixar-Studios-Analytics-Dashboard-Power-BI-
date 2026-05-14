@@ -22,7 +22,7 @@ Identify contributions of directors, writers, and creators
 
 The dataset for this project was sourced from Kaggle.
 
-Datasets Used:
+**Datasets Used:**
 
 Pixar Films – Film details (title, release date, ratings)
 
@@ -36,7 +36,7 @@ Pixar People – Contributors (Director, Writer, etc.)
 
 Public Response – IMDb, Rotten Tomatoes, CinemaScore
 
-🔧 Data Preparation (Power Query)
+**🔧 Data Preparation (Power Query)**
 
 Key transformations performed:
 
@@ -52,7 +52,7 @@ CinemaScore → Mode imputation (most frequent value)
 
 Standardized ratings (G, PG categories)
 
-🧩 Data Modeling
+**🧩 Data Modeling**
 
 Star Schema Design
 
@@ -69,7 +69,7 @@ One-to-Many relationships using film column
 Optimized for performance and scalability
 
 
-📊 Dashboard Features
+**📊 Dashboard Features**
 
 🔹 KPI Cards
 
@@ -85,8 +85,8 @@ Avg IMDb Rating
 
 Avg Rotten Tomatoes Score
 
-
-📈 Visualizations
+**
+📈 Visualizations**
 
 Line Chart → Box Office Trend by Year
 
@@ -100,8 +100,8 @@ Column Chart → Movie Ratings (G vs PG)
 
 Funnel Chart → CinemaScore Distribution
 
-
-🎛️ Interactivity
+**
+🎛️ Interactivity**
 
 Movie Slicer → Filter by film
 
